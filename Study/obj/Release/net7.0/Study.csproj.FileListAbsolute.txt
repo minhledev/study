@@ -1,0 +1,15 @@
+/Users/minhle/Projects/Study/Study/bin/Release/net7.0/Study
+/Users/minhle/Projects/Study/Study/bin/Release/net7.0/Study.deps.json
+/Users/minhle/Projects/Study/Study/bin/Release/net7.0/Study.runtimeconfig.json
+/Users/minhle/Projects/Study/Study/bin/Release/net7.0/Study.dll
+/Users/minhle/Projects/Study/Study/bin/Release/net7.0/Study.pdb
+/Users/minhle/Projects/Study/Study/obj/Release/net7.0/Study.csproj.AssemblyReference.cache
+/Users/minhle/Projects/Study/Study/obj/Release/net7.0/Study.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minhle/Projects/Study/Study/obj/Release/net7.0/Study.AssemblyInfoInputs.cache
+/Users/minhle/Projects/Study/Study/obj/Release/net7.0/Study.AssemblyInfo.cs
+/Users/minhle/Projects/Study/Study/obj/Release/net7.0/Study.csproj.CoreCompileInputs.cache
+/Users/minhle/Projects/Study/Study/obj/Release/net7.0/Study.dll
+/Users/minhle/Projects/Study/Study/obj/Release/net7.0/refint/Study.dll
+/Users/minhle/Projects/Study/Study/obj/Release/net7.0/Study.pdb
+/Users/minhle/Projects/Study/Study/obj/Release/net7.0/Study.genruntimeconfig.cache
+/Users/minhle/Projects/Study/Study/obj/Release/net7.0/ref/Study.dll
