@@ -27,7 +27,7 @@ class Program
         animal cat = new animal();
 
         dog.Aype();
-        cat.Aype();
+        
 
 
 
